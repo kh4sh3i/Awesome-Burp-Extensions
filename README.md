@@ -10,8 +10,7 @@
 </h1>
 
 # Awesome Burp Extensions
-A curated list of awesome Burp Extensions for bug hounter. groups by vuln type
-
+A curated list of awesome Burp Extensions for bug hunter. groups by vulnerability types
 
 ## Broken Access Control
 [Autorize](https://github.com/Quitten/Autorize) - One Burp extension that kept cropping up here was Autorize, by Barak Tawily. Autorize helps you to test for authentication vulnerabilities, and can save you a lot of time in doing this.
