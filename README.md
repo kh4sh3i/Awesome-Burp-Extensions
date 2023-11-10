@@ -32,9 +32,9 @@ A curated list of awesome Burp Extensions for bug hounter. groups by vuln type
 [Burp NoSQLi Scanner](https://github.com/matrix/Burp-NoSQLiScanner) - NoSQL Injection scans for Burp
 
 ## API Scanner
-[InQL Scanner](https://github.com/doyensec/inql) - A Comprehensive Burp Extension for GraphQL Security Testing
-[Logger++](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus) is a multithreaded logging extension for Burp Suite. In addition to logging requests and responses from all Burp Suite tools, the extension allows advanced filters to be defined to highlight interesting entries or filter logs to only those which match the filter.
+[InQL Scanner](https://github.com/doyensec/inql) - A Comprehensive Burp Extension for GraphQL Security Testing.
 
+[Logger++](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus) is a multithreaded logging extension for Burp Suite.
 
 
 ## web cache poisoning
